@@ -22,14 +22,6 @@ for (int i = 1; i <= num; i++)
 }
 Console.WriteLine($"Сумма число от 1 до {num} = {sum}");
 
-// через массив
-Console.Write("Введите число А = ");
-int length = Convert.ToInt32(Console.ReadLine());
-int sum1 = 0;
-for (int i = 0; i < length; i++)
-{
-int sum2 = i[count] + sum1;
-}
-Console.WriteLine(sum2);
-//end
+
+
 
